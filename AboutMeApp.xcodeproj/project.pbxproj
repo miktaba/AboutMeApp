@@ -89,8 +89,6 @@
 				840ACD612BC017940019E6C0 /* Extensions */,
 				84A7A8572BBF0C75008A4CAE /* Storyboards */,
 
-				84A7A8562BBF0C65008A4CAE /* SupportingFiles */,
-(Resource grouping)
 				84D9F91E2BC071A600C40059 /* Resources */,
 			);
 			path = AboutMeApp;

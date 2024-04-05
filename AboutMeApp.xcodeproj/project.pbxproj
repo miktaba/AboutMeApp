@@ -89,7 +89,7 @@
 				840ACD612BC017940019E6C0 /* Extensions */,
 				84A7A8572BBF0C75008A4CAE /* Storyboards */,
 				84A7A8562BBF0C65008A4CAE /* App */,
-				84A7A8482BBF066D008A4CAE /* Assets.xcassets */,
+				84D9F91E2BC071A600C40059 /* Resources */,
 			);
 			path = AboutMeApp;
 			sourceTree = "<group>";
@@ -123,6 +123,14 @@
 				84A7A84A2BBF066D008A4CAE /* LaunchScreen.storyboard */,
 			);
 			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		84D9F91E2BC071A600C40059 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				84A7A8482BBF066D008A4CAE /* Assets.xcassets */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

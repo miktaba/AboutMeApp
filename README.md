@@ -6,3 +6,4 @@ What's done:
 - hiding the keyboard when tapping on the screen;
 - validation of user login data;
 - transition from one VC to another.
+Some Change
